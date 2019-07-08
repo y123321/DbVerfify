@@ -1,1 +1,0 @@
-alter table t1 add name varchar(90)

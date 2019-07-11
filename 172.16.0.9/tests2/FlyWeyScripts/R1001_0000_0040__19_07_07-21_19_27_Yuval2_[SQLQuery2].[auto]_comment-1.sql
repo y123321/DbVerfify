@@ -1,1 +1,0 @@
-create table t88(id int)
